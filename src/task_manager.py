@@ -51,7 +51,7 @@ SENDER = MAIL_USER
 REPORT_RECVER = ['sevenling@shijiebang.net']
 
 #SMS API
-SMS_API = 'http://is.shijiebang.com/sms/'
+SMS_API = ''
 SMS_CALLER = 'sys-zabbix'
 SMS_TNO = 1190010
 
